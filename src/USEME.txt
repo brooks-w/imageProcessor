@@ -1,0 +1,11 @@
+How to use the GUI:
+
+- The first step is to load an image. After starting the program, click on the "load image"
+   button, and navigate to and double click on the image that you want to load.
+- From there click the operation buttons on the right and left sides of the image to apply
+   various filters and other operations to the image.
+- To save the currently displayed image, click "save image", navigate to the folder you want
+   the image saved to, and then type the name of the image in the field. Make sure to include
+   the filetype extension you want the image saved as.
+- When running the script file via command line; if done from terminal, you need the ABSOLUTE
+    PATH of the file and not just the relative path.
